@@ -1,0 +1,44 @@
+.edit-event-form {
+  background-color: #ddd0c8;
+  color: #323232;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.edit-event-form input,
+.edit-event-form select,
+.edit-event-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #323232;
+  background-color: #f2ede6; /* lighter shade of beige */
+  color: #323232;
+}
+
+.react-select__control {
+  background-color: #f2ede6;
+  color: #323232;
+  border: none;
+}
+
+.react-select__menu {
+  background-color: #f2ede6;
+  color: #323232;
+}
+
+.edit-event-form button {
+  background-color: #323232;
+  color: #ddd0c8;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.edit-event-form button:hover {
+  background-color: #ddd0c8;
+  color: #323232;
+  border: 1px solid #323232;
+}
